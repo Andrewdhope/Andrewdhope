@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Andrewdhope
-- 👀 I’m interested in web design and data literacy
-- 🌱 I’m currently learning node.js
-- 💞️ I’m looking to collaborate on public APIs
-- 📫 How to reach me: andrewdhope@gmail.com
+# About Me
+- Data engineer for digital healthcare
+- Web product enhancements, patient experience, public APIs
+- Slowly moving the corporate world from Excel to R
+- Single page application development on the side
 
 <!---
 Andrewdhope/Andrewdhope is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
