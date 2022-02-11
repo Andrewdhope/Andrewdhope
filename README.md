@@ -1,8 +1,8 @@
 # About Me
 - Data engineer for digital healthcare
 - Web product enhancements, patient experience, public APIs
-- Slowly moving the corporate world from Excel to R
-- Single page application development on the side
+- Slowly moving the corporate world away from Excel
+- Interested in single page application development
 
 <!---
 Andrewdhope/Andrewdhope is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
