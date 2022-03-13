@@ -1,7 +1,7 @@
 # About Me
 - Data engineer for digital healthcare
 - Web product enhancements, patient experience, public APIs
-- Slowly moving the corporate world away from Excel
+- Slowly nudging the corporate world away from Excel
 - Interested in single page application development
 
 <!---
